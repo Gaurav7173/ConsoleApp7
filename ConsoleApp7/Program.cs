@@ -93,7 +93,7 @@ namespace ConsoleApp7
         }
     }
 
-    //inheritance
+//inheritance example 2
     class animal
     {
         public string name;
@@ -109,7 +109,7 @@ namespace ConsoleApp7
             Console.WriteLine("name of animal is : " + name);
         }
     }
-
+//inheritance example 2
     class polygon
     {
         public void cal_perimeter(int length,int sides)
